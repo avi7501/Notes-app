@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/avi7501/Notes-app/static/css/main.43e68dad.css",
+    "main.js": "/avi7501/Notes-app/static/js/main.c120e144.js",
+    "static/js/787.28cb0dcd.chunk.js": "/avi7501/Notes-app/static/js/787.28cb0dcd.chunk.js",
+    "service-worker.js": "/avi7501/Notes-app/service-worker.js",
+    "index.html": "/avi7501/Notes-app/index.html",
+    "main.43e68dad.css.map": "/avi7501/Notes-app/static/css/main.43e68dad.css.map",
+    "main.c120e144.js.map": "/avi7501/Notes-app/static/js/main.c120e144.js.map",
+    "787.28cb0dcd.chunk.js.map": "/avi7501/Notes-app/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.43e68dad.css",
+    "static/js/main.c120e144.js"
+  ]
+}

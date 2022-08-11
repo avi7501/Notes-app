@@ -1,3 +1,4 @@
+@import url("https://fonts.googleapis.com/css2?family=McLaren&display=swap");
 .App {
   text-align: center;
 }
@@ -35,4 +36,85 @@
   to {
     transform: rotate(360deg);
   }
+}
+* {
+  padding: 0px;
+  margin: 0px;
+}
+body {
+  background-color: #e4e4dc;
+}
+header {
+  width: 100vw;
+  height: 10vh;
+  background-color: #f5ba13;
+}
+.logoText {
+  color: white;
+  font-family: "McLaren";
+  text-align: left;
+  padding-left: 3vw;
+  padding-top: 1.5vh;
+}
+footer {
+  clear: both;
+}
+
+.card {
+  background-color: white;
+  border-radius: 2vh;
+  padding: 2.5vh;
+  margin: 3vh;
+  box-shadow: 0.5vh 0.5vh rgba(120, 118, 118, 0.2);
+  text-align: left;
+  float: left;
+}
+.card p {
+  margin-top: 1.5vh;
+  white-space: pre-wrap;
+  word-wrap: break-word;
+}
+.area {
+  background-color: white;
+  width: 80vw;
+  border-radius: 2vh;
+  padding: 2.5vh;
+  margin: 3vh;
+  box-shadow: 0.5vh 0.5vh rgba(120, 118, 118, 0.2);
+  text-align: left;
+}
+input,
+textarea {
+  display: block;
+  margin: 1vh;
+  border: 0px;
+  width: 100%;
+  font-family: "McLaren";
+  font-size: 3vh;
+}
+textarea {
+  resize: none;
+}
+.add {
+  border-radius: 50%;
+  background-color: #f5ba13;
+  color: white;
+  font-size: 5vh;
+  float: right;
+  border: 0px;
+  height: 7vh;
+  width: 7vh;
+}
+.close {
+  border: 0px;
+  background-color: white;
+  width: 3vh;
+  height: 3vh;
+  float: right;
+  font-family: "McLaren";
+  color: black;
+  border-radius: 50%;
+}
+.close:hover {
+  background-color: rgb(243, 236, 236);
 }
